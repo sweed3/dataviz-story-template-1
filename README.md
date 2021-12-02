@@ -1,2 +1,2 @@
-# data-story-template
-data story template using modified Bootstrap
+# dataviz-story-template
+DataVizForAll.org story template using modified Bootstrap
